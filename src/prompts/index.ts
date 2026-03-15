@@ -18,3 +18,15 @@ export type { ListOptions } from "./list.js";
 
 export { ToggleHandler } from "./toggle.js";
 export type { ToggleOptions } from "./toggle.js";
+
+export { SelectHandler } from "./select.js";
+export type { SelectOptions } from "./select.js";
+
+export { MultiSelectHandler } from "./multiselect.js";
+export type { MultiSelectOptions } from "./multiselect.js";
+
+export { AutocompleteHandler } from "./autocomplete.js";
+export type { AutocompleteOptions } from "./autocomplete.js";
+
+export { DateHandler } from "./date.js";
+export type { DateOptions } from "./date.js";
